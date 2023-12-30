@@ -104,7 +104,7 @@ export default function Home() {
                   </CardHeader>
                   <CardContent>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
-                      A startup designed to promote fintech literacy and cybersecurity awareness.
+                    Platform for cyber & economic information pipelines, intel newsletter, investment club, and analyst community.
                     </p>
                   </CardContent>
                 </Card>
